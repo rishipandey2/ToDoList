@@ -12,7 +12,3 @@ A simple RESTful API for managing user-authenticated todos using **Node.js**, **
 ---
 📡 Live Demo - https://todolist-db9k.onrender.com
 
-**👤 Demo Account (Optional):**  
-Use these to try it out instantly — or sign up with your own credentials!
-  username:"Rahul@google.com",
-  password:"12345345"
